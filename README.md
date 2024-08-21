@@ -5,4 +5,4 @@ Meu nome é Ana Clara Melo ☕
 - Estou me desenvolvendo na linguagem JavaScript 🖥️
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 🤸
 
-![](https://tenor.com/pt-BR/view/flowers-gif-26132863)
+![](https://media.tenor.com/ySIq_5cog6UAAAAi/cute-blue-ribbon.gif)
